@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dado</string>
+    <string name="str_boton">Lanzar</string>
+    <string name="str_Contador">1</string>
+</resources>
